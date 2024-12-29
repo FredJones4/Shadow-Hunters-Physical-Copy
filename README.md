@@ -86,7 +86,7 @@ A Python script that extracts images from a ZIP archive and arranges them into a
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/FredJones4/zip_to_pdf.git
+git clone https://github.com/FredJones4/Shadow-Hunters-Physical-Copy.git
 cd zip_to_pdf
 ```
 
@@ -269,4 +269,4 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 
 ---
 
-*Feel free to contribute, report issues, or suggest improvements by opening an issue or a pull request on the [GitHub repository](https://github.com/FredJones4/zip_to_pdf).*
+*Feel free to contribute, report issues, or suggest improvements by opening an issue or a pull request on the [GitHub repository](https://github.com/FredJones4/Shadow-Hunters-Physical-Copy.git).*
