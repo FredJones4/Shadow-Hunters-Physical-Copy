@@ -120,7 +120,7 @@ Note that any pdf name can be used in place of ``output.pdf``. If such a pdf doe
 
 ### Advanced Options
 
-Customize the PDF layout by specifying additional arguments. For example:
+Customize the PDF layout by specifying additional arguments.
 
 ```bash
 python zip_to_pdf.py path_to_images.zip output.pdf --page-size A4 --orientation landscape --margin 1 --duplicate 2 --hspace 0.2 --vspace 0.3
@@ -251,11 +251,11 @@ Files' purposes and sources are as follows:
 |Name   |Source | Purpose   |
 |-------|-------|-----------|
 |Shadow Hunters_all_cards.zip|---|Compilation of all the files in the other zip folders for ease of use|
-|Shadow Hunters Area (Front).zip|[PlayDohBear](https://steamcommunity.com/id/PlayDohBear) in [SH Steam Discussion 1](https://steamcommunity.com/workshop/filedetails/discussion/2207510807/4625714282762283403/)|Store location cards for areas visited|
+|Shadow Hunters Area (Front).zip|[PlayDohBear](https://steamcommunity.com/id/PlayDohBear) in [SH Steam Discussion 1](https://steamcommunity.com/workshop/filedetails/discussion/2207510807/4625714282762283403/)| Location cards for areas visited|
 |Shadow Hunters modesty_cards.zip|Self|  Clothed versions of certain shirtless female characters, using Smemple's card template|
 |ShadowHunters_CustomCard_Template.psd|[Smemple](https://steamcommunity.com/id/RyGuySuprFly) on [SH Steam Discussion](https://steamcommunity.com/sharedfiles/filedetails/comments/2207510807) |Create custom cards, using project's subdirectories as described in the project's README|
 |rules_reminder.pdf|[SH Steam Discussion 1](https://steamcommunity.com/workshop/filedetails/discussion/2207510807/4625714282762283403/)|*Not a complete list of rules.* This is a reminder of turn order and a list of the basic characters' abilities. See full rules [here](https://images.zmangames.com/filer_public/64/5b/645bebeb-6bef-4d62-8d92-b9ca65450e85/shadow-hunter-rules.pdf)|
-|altering_cards_workspace.zip|Self|*Do not use as path for ``zip_to_pdf.py``.* This is a Powerpoint file with relevant images for altering Base and Expansion cards. |
+|altering_cards_workspace.zip|Self|*Do not use as path for ``zip_to_pdf.py``<br>* Powerpoint file with relevant images for altering Base and Expansion cards |
 
 [PlaydohBear's]() board scan is found [here](https://drive.google.com/file/d/1Qee6-ESGvd9Tyj6BGke9neGaUTaX-d_4/view), which can also be found at his [Steam Community link](https://drive.google.com/file/d/1Qee6-ESGvd9Tyj6BGke9neGaUTaX-d_4/view): 
 
