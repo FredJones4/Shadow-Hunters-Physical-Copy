@@ -41,10 +41,11 @@ For me, costs were more or less as follows:
 |Sleeves| Amazon | $15|
 |800 blank Cards| Amazon| $28 |
 | Player Pieces (12 colors) | personal 3D printer| $10|
-| Printed Game Board | Print Store | $1.30|
+| Printed Game Board | Print Store | $2|
 | Print and cut cards | Print Store | $65 |
+| Ultra Pro Deck Boxes | Amazon, a local surplus store | $15| 
 
-Total: $119.30
+Total: $135
 
 
 # Zip to PDF Converter (`zip_to_pdf.py`)
