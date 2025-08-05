@@ -1,4 +1,5 @@
 # Shadow Hunters -- Making a Physical Copy
+<img width="721" height="224" alt="Picture1" src="https://github.com/user-attachments/assets/19c85bd6-4b6b-4bbe-9649-df7f7fcf0b87" />
 
 This project includes ``zip_to_pdf.py``, which was was developed with OpenAI's 01 mini model in the following chats:
 ```
