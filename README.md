@@ -239,9 +239,9 @@ python zip_to_pdf.py path_to_images.zip output.pdf --page-size A4 --orientation 
   - **Issue**: Some images may not render correctly in the PDF.
   - **Solution**: Verify that all images in the ZIP are not corrupted and are in supported formats.
 
-## Shadowhunters
+## Shadow Hunters
 
-This project was developed to print out Cards for a homemade version of the retired Shadow Hunters game.
+This project was developed to print out cards for a homemade version of the retired Shadow Hunters game.
 
 ### Files
 
@@ -259,7 +259,7 @@ Files' purposes and sources are as follows:
 |rules_reminder.pdf|[SH Steam Discussion 1](https://steamcommunity.com/workshop/filedetails/discussion/2207510807/4625714282762283403/)|*Not a complete list of rules.* This is a reminder of turn order and a list of the basic characters' abilities. See full rules [here](https://images.zmangames.com/filer_public/64/5b/645bebeb-6bef-4d62-8d92-b9ca65450e85/shadow-hunter-rules.pdf)|
 |altering_cards_workspace.zip|Self|*Do not use as path for ``zip_to_pdf.py``<br>* Powerpoint file with relevant images for altering Base and Expansion cards |
 
-[PlaydohBear's]() board scan is found [here](https://drive.google.com/file/d/1Qee6-ESGvd9Tyj6BGke9neGaUTaX-d_4/view), which can also be found at his [Steam Community link](https://drive.google.com/file/d/1Qee6-ESGvd9Tyj6BGke9neGaUTaX-d_4/view): 
+[PlaydohBear's]() board scan is found [here](https://drive.google.com/file/d/1Qee6-ESGvd9Tyj6BGke9neGaUTaX-d_4/view), which can also be found at his [Steam Community link](https://drive.google.com/file/d/1Qee6-ESGvd9Tyj6BGke9neGaUTaX-d_4/view). 
 
 NOTE: for whichever characters being played, it is a good idea to keep a list of what the characters do for all players to see. It may be helpful to compile a pdf with ``zip_to_pdf.py`` with the current folders of characters that could have been included, for that specific round.
 
